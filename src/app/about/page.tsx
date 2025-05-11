@@ -105,7 +105,7 @@ const AboutMePage = () => {
                             <span className="text-blue-600 dark:text-blue-400">
                                 5-Star
                             </span>{" "}
-                            (Highest Rating: 1744)
+                            (Highest Rating: 2084)
                         </a>
                     </h3>
                     <time className="block mb-2 text-sm font-normal text-gray-400 dark:text-gray-500">
