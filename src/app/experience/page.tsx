@@ -27,18 +27,9 @@ const ExperiencePage = () => {
 
       <ol className="relative mb-10 border-s border-gray-200 dark:border-gray-700">
         <li className="mb-10 ms-6">
-          <a
-            href="https://drive.google.com/file/d/1B65xIJrpbIFfkV5GAAyii45AHcCeW3Ub/view?usp=sharing"
-            className="text-purple-800 flex items-center gap-1 float-right"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Award />
-            Certificate
-          </a>
           <span className="absolute flex items-center justify-center w-6 h-6 bg-purple-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-purple-900" />
           <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-            Web Developer Intern · AspireNex
+            Web Developer Intern · Roomzy
           </h3>
 
           <time className="block mb-2 text-sm font-normal text-gray-400 dark:text-gray-500">

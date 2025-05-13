@@ -45,10 +45,10 @@ reachOut();
   {
     role: "Web Developer Intern",
     company: "Roomzy",
-    duration: "May 2024 – Aug 2024",
+    duration: "Dec 2024 – Feb 2025",
     highlights: [
-      "Developed landing and course detail pages using Next.js",
-      "Implemented UI components with Radix UI and Motion",
+      "Developed landing page using Next.js",
+      "Implemented UI components with Shadcn UI",
       "Integrated Nodemailer to handle email communication from frontend"
     ]
   }
