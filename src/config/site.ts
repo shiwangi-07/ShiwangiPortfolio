@@ -9,7 +9,7 @@ export const siteConfig = {
         shadcn: "https://ui.shadcn.com/",
         github: "https://github.com/shiwangi-07/ShiwangiPortfolio",
         githubProfile: "https://github.com/shiwangi-07",
-        resume: "https://drive.google.com/file/d/1tVQ04iMkkqW_dCMAQxA7XEnVKiaGOpqV/view?usp=sharing",
+        resume: "https://drive.google.com/file/d/1o_nmZalMgN0FlZBh0pzck42qNYYFauf2/view?usp=sharing",
         email: "mailto:shiwangi1204@gmail.com",
         githubUsername: "shiwangi-07",
     },
